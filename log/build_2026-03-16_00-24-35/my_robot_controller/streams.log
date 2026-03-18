@@ -1,0 +1,37 @@
+[0.517s] Invoking command in '/home/tianbot/dla_ros2_ws/src/my_robot_controller': PS1=${debian_chroot:+($debian_chroot)}\u@\h:\w\$ PYTHONPATH=/home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/prefix_override:/home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages:${PYTHONPATH} /home/tianbot/.ros2/bin/python setup.py egg_info --egg-base build/my_robot_controller build --build-base /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build install --record /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/install.log --single-version-externally-managed
+[0.685s] running egg_info
+[0.685s] creating build/my_robot_controller/my_robot_controller.egg-info
+[0.685s] writing build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.685s] writing dependency_links to build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.685s] writing entry points to build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.686s] writing requirements to build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.686s] writing top-level names to build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.688s] writing manifest file 'build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.712s] reading manifest file 'build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.713s] writing manifest file 'build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.713s] running build
+[0.713s] running build_py
+[0.713s] creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build
+[0.713s] creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build/lib
+[0.713s] creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build/lib/my_robot_controller
+[0.713s] copying my_robot_controller/__init__.py -> /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build/lib/my_robot_controller
+[0.713s] copying my_robot_controller/my_first_node.py -> /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build/lib/my_robot_controller
+[0.713s] running install
+[0.714s] running install_lib
+[0.714s] creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller
+[0.715s] copying /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller
+[0.715s] copying /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller
+[0.715s] byte-compiling /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller/__init__.py to __init__.cpython-38.pyc
+[0.716s] byte-compiling /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-38.pyc
+[0.716s] running install_data
+[0.716s] creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index
+[0.717s] creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index
+[0.717s] creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.717s] copying resource/my_robot_controller -> /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.717s] copying package.xml -> /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/share/my_robot_controller
+[0.717s] running install_egg_info
+[0.718s] Copying build/my_robot_controller/my_robot_controller.egg-info to /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages/my_robot_controller-0.0.0-py3.8.egg-info
+[0.719s] running install_scripts
+[0.731s] Installing test_node_name script to /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/my_robot_controller
+[0.732s] writing list of installed files to '/home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/install.log'
+[0.751s] Invoked command in '/home/tianbot/dla_ros2_ws/src/my_robot_controller' returned '0': PS1=${debian_chroot:+($debian_chroot)}\u@\h:\w\$ PYTHONPATH=/home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/prefix_override:/home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages:${PYTHONPATH} /home/tianbot/.ros2/bin/python setup.py egg_info --egg-base build/my_robot_controller build --build-base /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build install --record /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/install.log --single-version-externally-managed

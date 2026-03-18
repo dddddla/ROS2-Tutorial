@@ -1,0 +1,18 @@
+[0.521s] Invoking command in '/home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller': PS1=${debian_chroot:+($debian_chroot)}\u@\h:\w\$ PYTHONPATH=/home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/prefix_override:/home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages:${PYTHONPATH} /home/tianbot/.ros2/bin/python setup.py develop --editable --build-directory /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build --no-deps install_data
+[0.700s] running develop
+[0.809s] running egg_info
+[0.809s] writing my_robot_controller.egg-info/PKG-INFO
+[0.809s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.809s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.809s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.809s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.836s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.836s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.837s] running build_ext
+[0.837s] Creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages/site.py
+[0.839s] Creating /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages/my-robot-controller.egg-link (link to .)
+[0.840s] Installing test_node script to /home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/my_robot_controller
+[0.840s] 
+[0.840s] Installed /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller
+[0.840s] running install_data
+[0.866s] Invoked command in '/home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller' returned '0': PS1=${debian_chroot:+($debian_chroot)}\u@\h:\w\$ PYTHONPATH=/home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/prefix_override:/home/tianbot/dla_ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.8/site-packages:${PYTHONPATH} /home/tianbot/.ros2/bin/python setup.py develop --editable --build-directory /home/tianbot/dla_ros2_ws/src/my_robot_controller/build/my_robot_controller/build --no-deps install_data

@@ -20,6 +20,10 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "test_node = my_robot_controller.my_first_node:main",
+            "pose_subscriber = my_robot_controller.pose_subscriber:main",
+            "turtle_controller = my_robot_controller.turtle_controller:main"
+
         ],
     },
 )
